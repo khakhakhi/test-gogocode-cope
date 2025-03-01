@@ -8,8 +8,9 @@
 
 GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具，但相较于其他同类产品，它或许提供了更符合直觉的 API [from branch c]
 
--   一套类 Jquery 的 API ,似乎是用来查找和处理 AST
--   一套和正则表达式接近的语法用来匹配和替换代码
+-   一套类 Jquery 的 API ，似乎是用来查找和处理 AST 的。
+-   一套和正则表达式接近的语法，用来匹配和替换代码。
+-   一套和字符串替换类似的 API 来修改代码。
 
 来 [GoGoCode.io](https://gogocode.io) 了解更多
 
