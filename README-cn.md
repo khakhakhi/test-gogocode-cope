@@ -12,6 +12,8 @@ GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具�
 -   一套和正则表达式接近的语法，用来匹配和替换代码。
 -   一套和字符串替换类似的 API 来修改代码。
 
+#### 了解更多
+
 来 [GoGoCode.io](https://gogocode.io) 了解更多
 
 ## 简介
